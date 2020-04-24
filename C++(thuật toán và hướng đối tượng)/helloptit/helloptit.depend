@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537536990 source:d:\c++\helloptit\helloptit.cpp
+	<iostream>
+	<cstdio>
+	<string>
+

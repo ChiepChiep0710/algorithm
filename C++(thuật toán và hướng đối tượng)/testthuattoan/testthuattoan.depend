@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1552982210 source:d:\c++\testthuattoan\main.cpp
+	<algorithm>
+	<cassert>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<map>
+	<set>
+	<sstream>
+	<string>
+	<vector>
+

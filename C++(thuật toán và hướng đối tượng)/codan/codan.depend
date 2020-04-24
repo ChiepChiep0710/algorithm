@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548048258 source:d:\c++\codan\main.cpp
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566095540 source:d:\c++\chall3\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541820519 source:d:\c++\vietlot\main.cpp
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538060136 source:d:\c++\bai 4\bai4.c
+	<stdio.h>
+	<stdlib.h>
+

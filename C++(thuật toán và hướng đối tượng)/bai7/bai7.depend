@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538064837 source:d:\c++\bai7\bai7.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

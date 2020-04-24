@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543806893 source:d:\c++\xoanoc\main.cpp
+	<iostream>
+	<math.h>
+

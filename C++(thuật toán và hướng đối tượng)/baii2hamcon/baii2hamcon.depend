@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542960640 source:d:\c++\baii2hamcon\main.cpp
+	<iostream>
+	<math.h>
+

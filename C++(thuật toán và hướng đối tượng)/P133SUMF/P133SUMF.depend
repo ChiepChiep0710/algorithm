@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540894959 source:d:\c++\p133sumf\p133sumf.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

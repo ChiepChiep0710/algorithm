@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538061971 source:d:\c++\bai 9\bai9.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+

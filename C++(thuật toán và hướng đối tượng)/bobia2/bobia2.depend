@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543030994 source:d:\c++\bobia2\main.cpp
+	<iostream>
+	<math.h>
+

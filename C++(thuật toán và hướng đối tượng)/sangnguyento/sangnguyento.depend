@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541215474 source:d:\c++\sangnguyento\main.cpp
+	<iostream>
+	<math.h>
+

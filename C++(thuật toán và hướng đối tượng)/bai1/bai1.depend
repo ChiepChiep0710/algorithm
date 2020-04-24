@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554038511 source:d:\c++\bai1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<cstring>
+
