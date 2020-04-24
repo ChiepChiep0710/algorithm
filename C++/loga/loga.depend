@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542386188 source:d:\c++\loga\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

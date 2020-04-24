@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548742725 source:d:\c++\xedap\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+

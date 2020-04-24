@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559487381 source:d:\c++\newwww\main.c
+	<stdio.h>
+	<string.h>
+

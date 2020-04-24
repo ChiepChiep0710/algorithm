@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542958321 source:d:\c++\bai1ctcon\main.cpp
+	<iostream>
+	<math.h>
+

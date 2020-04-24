@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559498577 source:d:\c++\nguyen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

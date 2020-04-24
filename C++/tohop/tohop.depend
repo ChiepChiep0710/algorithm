@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538020663 source:d:\c++\tohop\main.cpp
+	<iostream>
+	<math.h>
+	<cstdio>
+

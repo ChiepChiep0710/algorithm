@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542814462 source:d:\c++\hexxxa\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<vector>
+

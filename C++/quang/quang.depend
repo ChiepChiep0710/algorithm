@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559494596 source:d:\c++\quang\main.c
+	<stdio.h>
+	<stdlib.h>
+

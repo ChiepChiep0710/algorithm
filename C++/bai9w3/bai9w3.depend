@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541037559 source:d:\c++\bai9w3\bai9w3.cpp
+	<iostream>
+	<math.h>
+

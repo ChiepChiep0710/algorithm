@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550413283 source:d:\c++\stringss\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559356973 source:d:\c++\thcs2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

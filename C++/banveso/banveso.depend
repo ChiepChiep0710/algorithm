@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541095729 source:d:\c++\banveso\main.cpp
+	<iostream>
+	<math.h>
+

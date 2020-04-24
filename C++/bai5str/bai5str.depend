@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542274377 source:d:\c++\bai5str\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+

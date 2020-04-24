@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537682244 source:d:\c++\prime2it\main.cpp
+	<iostream>
+	<math.h>
+

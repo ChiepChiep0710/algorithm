@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541504113 source:d:\c++\shopping\main.cpp
+	<iostream>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543051318 source:d:\c++\mang9\main.cpp
+	<stdio.h>
+	<math.h>
+	<string.h>
+

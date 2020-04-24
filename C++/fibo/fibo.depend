@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566754494 source:d:\c++\fibo\main.cpp
+	<iostream>
+	<string.h>
+

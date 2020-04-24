@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541501767 source:d:\c++\dragin\main.cpp
+	<iostream>
+	<math.h>
+
